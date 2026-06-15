@@ -12,7 +12,7 @@
 
 **Quieres aprender a desarrollar con AI pero no sabes por donde empezar? Estas en el lugar correcto.**
 
-[Comenzar desde cero](#modulo-0-mentalidad-ai-first) &nbsp;·&nbsp; [Ver herramientas](#modulo-2-herramientas-ai-para-desarrolladores) &nbsp;·&nbsp; [Proyectos practicos](#modulo-5-proyectos-practicos) &nbsp;·&nbsp; [Contribuir](#como-contribuir)
+[Comenzar desde cero](#modulo-0---mentalidad-ai-first) &nbsp;·&nbsp; [Ver herramientas](#modulo-2-herramientas-ai-para-desarrolladores) &nbsp;·&nbsp; [Proyectos practicos](#modulo-5-proyectos-practicos) &nbsp;·&nbsp; [Contribuir](#como-contribuir)
 
 </div>
 
@@ -26,17 +26,17 @@
 
 - [Por que esta guia](#por-que-esta-guia)
 - [Para quien es esto](#para-quien-es-esto)
-- [Modulo 0 - Mentalidad AI-First](#modulo-0-mentalidad-ai-first)
-- [Modulo 1 - Conceptos Fundamentales](#modulo-1-conceptos-fundamentales)
-- [Modulo 2 - Herramientas AI para Desarrolladores](#modulo-2-herramientas-ai-para-desarrolladores)
-- [Modulo 3 - Prompt Engineering](#modulo-3-prompt-engineering)
-- [Modulo 4 - Integracion con APIs de AI](#modulo-4-integracion-con-apis-de-ai)
+- [Modulo 0 - Mentalidad AI-First](#modulo-0---mentalidad-ai-first)
+- [Modulo 1 - Conceptos Fundamentales](#modulo-1---conceptos-fundamentales)
+- [Modulo 2 - Herramientas AI para Desarrolladores](#modulo-2---herramientas-ai-para-desarrolladores)
+- [Modulo 3 - Prompt Engineering](#modulo-3---prompt-engineering)
+- [Modulo 4 - Integracion con APIs de AI](#modulo-4---integracion-con-apis-de-ai)
 - [Modulo 5 - Proyectos Practicos](#modulo-5-proyectos-practicos)
-- [Modulo 6 - AI Agents y Automatizacion](#modulo-6-ai-agents-y-automatizacion)
-- [Modulo 7 - Construir Productos con AI](#modulo-7-construir-productos-con-ai)
-- [Modulo 8 - RAG y Memoria en AI](#modulo-8-rag-y-memoria-en-ai)
-- [Modulo 9 - Fine-tuning y Modelos Propios](#modulo-9-fine-tuning-y-modelos-propios)
-- [Modulo 10 - Etica Seguridad y Buenas Practicas](#modulo-10-etica-seguridad-y-buenas-practicas)
+- [Modulo 6 - AI Agents y Automatizacion](#modulo-6---ai-agents-y-automatizacion)
+- [Modulo 7 - Construir Productos con AI](#modulo-7---construir-productos-con-ai)
+- [Modulo 8 - RAG y Memoria en AI](#modulo-8---rag-y-memoria-en-ai)
+- [Modulo 9 - Fine-tuning y Modelos Propios](#modulo-9---fine-tuning-y-modelos-propios)
+- [Modulo 10 - Etica Seguridad y Buenas Practicas](#modulo-10---etica-seguridad-y-buenas-practicas)
 - [Recursos de Aprendizaje](#recursos-de-aprendizaje)
 - [Hoja de Ruta](#hoja-de-ruta)
 - [Glosario](#glosario)
