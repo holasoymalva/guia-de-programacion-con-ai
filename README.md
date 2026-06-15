@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fc9b3daf-b9c9-4149-a870-965ee8e28fe1" />
+
 # Guía de Programación con AI 🚀
 
 ### La guía más completa en español para desarrollar productos y software utilizando Inteligencia Artificial
