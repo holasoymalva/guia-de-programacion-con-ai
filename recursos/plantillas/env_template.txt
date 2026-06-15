@@ -1,0 +1,38 @@
+# ==============================================================================
+# PLANTILLA DE CONFIGURACIÓN DE VARIABLES DE ENTORNO (.env)
+# Instrucciones: Copia este archivo como '.env' en la raíz de tu proyecto
+# y rellena con tus claves privadas reales. NUNCA subas el archivo '.env' a Git.
+# ==============================================================================
+
+# LLM PROVIDERS API KEYS
+# ------------------------------------------------------------------------------
+# Obtener en: https://platform.openai.com/
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Obtener en: https://console.anthropic.com/
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# Obtener en: https://aistudio.google.com/
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Obtener en: https://platform.deepseek.com/
+DEEPSEEK_API_KEY=your_deepseek_api_key_here
+
+# Obtener en: https://openrouter.ai/ (API unificada)
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+
+# CONFIGURACIONES DE BASE DE DATOS VECTORIAL
+# ------------------------------------------------------------------------------
+PINECONE_API_KEY=your_pinecone_api_key_here
+PINECONE_ENVIRONMENT=us-east-1-aws
+CHROMADB_HOST=localhost
+CHROMADB_PORT=8000
+
+
+# CONFIGURACIONES DEL SERVIDOR BACKEND (FASTAPI / NODE)
+# ------------------------------------------------------------------------------
+PORT=8000
+HOST=127.0.0.1
+DEBUG=True
+ALLOWED_ORIGINS=http://localhost:3000,https://miweb.com
