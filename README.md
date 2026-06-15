@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Guía+de+Programación+con+AI+🤖;De+cero+a+producto+con+inteligencia+artificial;La+guía+más+completa+en+español" alt="Typing SVG" />
-
 # 🧠 Guía de Programación con AI
 ### La guía más completa en español para desarrollar productos y programar con Inteligencia Artificial
 
