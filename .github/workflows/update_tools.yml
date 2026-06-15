@@ -1,0 +1,42 @@
+name: Actualización Semanal de Herramientas y Actividad 🤖📈
+
+on:
+  schedule:
+    # Corre cada domingo a las 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+    # Permite la ejecución manual desde la pestaña de Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout del Repositorio
+      uses: actions/checkout@v4
+      
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        
+    - name: Ejecutar Script de Actualización
+      run: |
+        python scripts/update_models.py
+        
+    - name: Commit y Push de Cambios
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Verificar si hay cambios en el archivo README.md
+        if git diff --exit-code README.md; then
+          echo "No hay cambios para actualizar."
+        else
+          git add README.md
+          git commit -m "chore: actualización semanal automática de actividad en README"
+          git push
+        fi
