@@ -12,7 +12,7 @@
 
 **Quieres aprender a desarrollar con AI pero no sabes por donde empezar? Estas en el lugar correcto.**
 
-[Comenzar desde cero](#modulo-0---mentalidad-ai-first) &nbsp;·&nbsp; [Ver herramientas](#modulo-2-herramientas-ai-para-desarrolladores) &nbsp;·&nbsp; [Proyectos practicos](#modulo-5-proyectos-practicos) &nbsp;·&nbsp; [Contribuir](#como-contribuir)
+[Comenzar desde cero](#modulo-0---mentalidad-ai-first) &nbsp;·&nbsp; [Ver herramientas](#modulo-2---herramientas-ai-para-desarrolladores) &nbsp;·&nbsp; [Proyectos practicos](#modulo-5-proyectos-practicos) &nbsp;·&nbsp; [Contribuir](#como-contribuir)
 
 </div>
 
