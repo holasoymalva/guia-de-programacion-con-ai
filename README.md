@@ -12,7 +12,7 @@
 
 **¿Quieres aprender a desarrollar con AI pero no sabes por dónde empezar? Estás en el lugar correcto.**
 
-[🚀 Comenzar desde cero](#-módulo-0-antes-de-empezar--mentalidad-ai-first) · [🛠️ Ver herramientas](#️-módulo-2-el-arsenal-herramientas-ai-para-desarrolladores) · [💡 Ejemplos prácticos](#-módulo-5-proyectos-prácticos-de-menor-a-mayor-complejidad) · [🤝 Contribuir](#-cómo-contribuir)
+[🚀 Comenzar desde cero](#módulo-0-antes-de-empezar-mentalidad-ai-first) · [🛠️ Ver herramientas](#módulo-2-el-arsenal-herramientas-ai-para-desarrolladores) · [💡 Ejemplos prácticos](#módulo-5-proyectos-prácticos-de-menor-a-mayor-complejidad) · [🤝 Contribuir](#cómo-contribuir)
 
 </div>
 
@@ -24,24 +24,24 @@
 
 ## 📋 Tabla de Contenidos
 
-- [¿Por qué esta guía?](#-por-qué-esta-guía)
-- [¿Para quién es esto?](#-para-quién-es-esto)
-- [Módulo 0 – Mentalidad AI-First](#-módulo-0-antes-de-empezar-mentalidad-ai-first)
-- [Módulo 1 – Conceptos Fundamentales](#-módulo-1-conceptos-fundamentales-que-todo-desarrollador-debe-conocer)
-- [Módulo 2 – El Arsenal de Herramientas](#️-módulo-2-el-arsenal-herramientas-ai-para-desarrolladores)
-- [Módulo 3 – Prompt Engineering](#-módulo-3-prompt-engineering-el-arte-de-hablarle-a-la-ai)
-- [Módulo 4 – Integración con APIs de AI](#-módulo-4-integración-con-apis-de-ai)
-- [Módulo 5 – Proyectos Prácticos](#-módulo-5-proyectos-prácticos-de-menor-a-mayor-complejidad)
-- [Módulo 6 – AI Agents y Automatización](#-módulo-6-ai-agents-y-automatización-avanzada)
-- [Módulo 7 – Construir Productos con AI](#-módulo-7-construir-productos-reales-con-ai)
-- [Módulo 8 – RAG y Memoria en AI](#-módulo-8-rag-retrieval-augmented-generation-y-memoria-en-ai)
-- [Módulo 9 – Fine-tuning y Modelos Propios](#-módulo-9-fine-tuning-y-modelos-propios)
-- [Módulo 10 – Ética, Seguridad y Buenas Prácticas](#-módulo-10-ética-seguridad-y-buenas-prácticas)
-- [Recursos de Aprendizaje](#-recursos-de-aprendizaje-curados)
-- [Hoja de Ruta](#-hoja-de-ruta-de-aprendizaje)
-- [Glosario](#-glosario-esencial)
-- [Comunidad](#-comunidad)
-- [Contribuir](#-cómo-contribuir)
+- [¿Por qué esta guía?](#por-qué-esta-guía)
+- [¿Para quién es esto?](#para-quién-es-esto)
+- [Módulo 0 – Mentalidad AI-First](#módulo-0-antes-de-empezar-mentalidad-ai-first)
+- [Módulo 1 – Conceptos Fundamentales](#módulo-1-conceptos-fundamentales-que-todo-desarrollador-debe-conocer)
+- [Módulo 2 – El Arsenal de Herramientas](#módulo-2-el-arsenal-herramientas-ai-para-desarrolladores)
+- [Módulo 3 – Prompt Engineering](#módulo-3-prompt-engineering-el-arte-de-hablarle-a-la-ai)
+- [Módulo 4 – Integración con APIs de AI](#módulo-4-integración-con-apis-de-ai)
+- [Módulo 5 – Proyectos Prácticos](#módulo-5-proyectos-prácticos-de-menor-a-mayor-complejidad)
+- [Módulo 6 – AI Agents y Automatización](#módulo-6-ai-agents-y-automatización-avanzada)
+- [Módulo 7 – Construir Productos con AI](#módulo-7-construir-productos-reales-con-ai)
+- [Módulo 8 – RAG y Memoria en AI](#módulo-8-rag-retrieval-augmented-generation-y-memoria-en-ai)
+- [Módulo 9 – Fine-tuning y Modelos Propios](#módulo-9-fine-tuning-y-modelos-propios)
+- [Módulo 10 – Ética, Seguridad y Buenas Prácticas](#módulo-10-ética-seguridad-y-buenas-prácticas)
+- [Recursos de Aprendizaje](#recursos-de-aprendizaje-curados)
+- [Hoja de Ruta](#hoja-de-ruta-de-aprendizaje)
+- [Glosario](#glosario-esencial)
+- [Colaboradores](#colaboradores)
+- [Contribuir](#cómo-contribuir)
 
 ---
 
@@ -2153,15 +2153,19 @@ git push origin feature/agregar-seccion-langchain
 
 ## 🌟 Colaboradores
 
-<a href="https://github.com/holasoymalva/guia-de-programacion-con-ai/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=holasoymalva/guia-de-programacion-con-ai" />
-</a>
+Este proyecto es posible gracias a todas las personas que contribuyen.
+¡Tú puedes ser el próximo! Lee la [guía de contribución](#cómo-contribuir).
+
+[![Contributors](https://img.shields.io/github/contributors/holasoymalva/guia-de-programacion-con-ai?style=for-the-badge&color=blue)](https://github.com/holasoymalva/guia-de-programacion-con-ai/graphs/contributors)
 
 ---
 
 ## 📊 Estadísticas del Repositorio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holasoymalva&repo=guia-de-programacion-con-ai&show_icons=true&theme=dark)
+[![Stars](https://img.shields.io/github/stars/holasoymalva/guia-de-programacion-con-ai?style=for-the-badge&logo=github&color=yellow)](https://github.com/holasoymalva/guia-de-programacion-con-ai/stargazers)
+[![Forks](https://img.shields.io/github/forks/holasoymalva/guia-de-programacion-con-ai?style=for-the-badge&logo=github&color=blue)](https://github.com/holasoymalva/guia-de-programacion-con-ai/network/members)
+[![Issues](https://img.shields.io/github/issues/holasoymalva/guia-de-programacion-con-ai?style=for-the-badge&logo=github&color=red)](https://github.com/holasoymalva/guia-de-programacion-con-ai/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/holasoymalva/guia-de-programacion-con-ai?style=for-the-badge&logo=github&color=green)](https://github.com/holasoymalva/guia-de-programacion-con-ai/commits/main)
 
 ---
 
