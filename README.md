@@ -95,6 +95,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Si esta guía te ayudó, dale una estrella ⭐ y compártela.
 
-*Ultima actualizacion: Septiembre 2026 · Version 3.0*
+*Ultima actualizacion: Octubre 2026 · Version 3.0*
 
 </div>
